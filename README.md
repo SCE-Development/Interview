@@ -13,7 +13,11 @@ Don't stress and **good luck**!!
 
 # Documentation
 Javascript - https://developer.mozilla.org/en-US/
+
 HTML - https://developer.mozilla.org/en-US/
+
 CSS - https://developer.mozilla.org/en-US/
+
 React - https://legacy.reactjs.org/docs/getting-started.html
+
 OpenWeather API - https://openweathermap.org/api
